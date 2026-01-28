@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m @odtrustedsece
+- 💞️ I’m interested in Minecraft
+- 🌏 I’m from China
+- 🌱 I’m currently learning Spring Cloud, Kotlin, PaperMC Plugin
+- 🌠 I’m looking to collaborate on luoxingyuan
+- 🌈 My GitLab site is https://gitlab.fortern.xyz
+- 🍬 Although this may sound boring, my favorite color is red, my favorite number is 9, and my favorite food is peanuts.
+
+
+
 <!--
 **odtrustedsece/odtrustedsece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
